@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(30, 30, 30); }
+
+    h1 {
+    color: beige;
+}
+
+    p {
+    color: beige;
+}
+
+.title {
+    font-size: 20px;
+    color: green;
+    margin-top: 5px;
+    margin-bottom: 100px;
+    border: 2px solid #000000;
+    padding-left: 850px;
+    margin-right: 100px;
+    }
