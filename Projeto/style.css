@@ -1,7 +1,7 @@
 :root {
-    --primary-color: rgb(80, 1, 80);
+    --primary-color: rgb(0, 0, 0);
     --secondary-color: rgb(255, 255, 255);
-    --tertiary-color: rgb(247, 184, 11);
+    --tertiary-color: rgb(11, 247, 43);
     --quaternary-color: rgb(0, 0, 0);
     --quintenary-color: rgb(0, 0, 0);
     --sexteneray-color: rgb(255, 255, 255);
